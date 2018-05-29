@@ -1,0 +1,10 @@
+{
+    "name": "rot13ify",
+    "version": "0.0",
+    "description": "convert to rot13, hopefully",
+    "permissions": ["contextMenus"],
+    "background": {
+        "page": "background.html"
+    },
+    "manifest_version": 2
+}
